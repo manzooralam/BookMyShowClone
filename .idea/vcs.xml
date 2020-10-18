@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AndroidQuiz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BookSharing_version_3.1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FirebaseVisionText" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FirebasevVsionDocument" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RecyclerViewDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Remove-negative-thoughts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RestaurentApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SQLiteDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SliderView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TIC_TAC_TOE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chatApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thinktacandroid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thinktacdemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thinktacdemo/app/src" vcs="Git" />
+  </component>
+</project>
